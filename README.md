@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm César Barth 👋
 
-<!--
-**Barth-Cesar/Barth-Cesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst in Agribusiness** · Power BI · DAX · SQL · Python · Automation
 
-Here are some ideas to get you started:
+I build BI and automation solutions for a seed company in Southern Brazil: from ERP data extraction and data modeling to dashboards the sales and management teams use every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇧🇷 Analista de dados no agronegócio: BI, modelagem de dados e automações.
+
+## 📊 Featured project
+**[Seed Sales Orders Dashboard](https://github.com/Barth-Cesar/powerbi-painel-pedidos-sementes)**: a Power BI sales dashboard with drill-through pages, packaging unit conversion and business rules validated against the ERP (synthetic data).
+
+## 🚧 Coming next
+Part of an integrated management BI:
+- Grain contracts dashboard
+- Field / harvest dashboard
+- BI web portal with login and sales confirmation module (PHP + MySQL)
+
+## 🛠️ Tools
+Power BI · DAX · Power Query · SQL · Python · Excel/VBA · PHP/MySQL · n8n
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/barthcesar07)
